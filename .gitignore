@@ -38,3 +38,6 @@ SKILL.md
 
 # Planning artifacts (if any local planning dirs exist)
 .planning/
+
+# Graphify knowledge graph output
+graphify-out/
